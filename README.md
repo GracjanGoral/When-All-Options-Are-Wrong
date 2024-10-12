@@ -89,7 +89,7 @@ Each dataset needs to have the following attributes:
 
 - **max_tokens**: The maximum number of tokens that the evaluated model can return.
 
-- **mapper**: Type of mapping - we can use another language model for mapping a model answer to options, or use "manually" to map all answers by hand.
+- **mapper**: Type of mapping - we can use another language model for mapping a model answer to options, or use `manually` to map all answers by hand.
 
 - **mapper_temperature**: Temperature of the model for mapping. If mapping is done `manually`, this is not used.
 
