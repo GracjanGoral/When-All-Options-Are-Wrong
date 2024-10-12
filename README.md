@@ -1,5 +1,24 @@
+<p align="center">
+  <img src="logo.png" alt="Relevant Description" width="160" height="150">
+</p>
+
+<p align="center" style="font-size: 24px;">
+  <strong>Wait, that's not an option:<br>Evaluating LLM Robustness with Incorrect Multiple-Choice Options</strong>
+</p>
+
+<p align="center">
+  <a href="https://sites.google.com/view/reflective-jugment/strona-g%C5%82%C3%B3wna" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #1E90FF; border: none; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin-top: 20px; cursor: pointer; border-radius: 12px;">
+      Visit Project Website
+    </button>
+  </a>
+</p>
+
 # Wait, that's not an option
-This repository tests the robustness of Large Language Models (LLMs) using multiple-choice questions where all provided options are incorrect. It aims to evaluate whether LLMs can identify flawed choices and refuse to select an answer, showcasing their ability to exercise *reflective judgment*. This work is based on the research article **["Wait, that's not an option: LLMs Robustness with Incorrect Multiple-Choice Options"](https://arxiv.org/abs/2409.00113)**. More details can be found on our [project website](https://sites.google.com/view/reflective-jugment/strona-g%C5%82%C3%B3wna).
+
+This repository tests the robustness of Large Language Models (LLMs) using multiple-choice questions where all provided options are incorrect. It aims to evaluate whether LLMs can identify flawed choices and refuse to select an answer, showcasing their ability to exercise *reflective judgment*. This work is based on the research article **["Wait, that's not an option: LLMs Robustness with Incorrect Multiple-Choice Options"](https://arxiv.org/abs/2409.00113)**.
+
+
 ## Project Setup
 1. **Create a Python environment:**
 ```bash
