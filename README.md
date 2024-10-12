@@ -77,7 +77,7 @@ Each dataset needs to have the following attributes:
     "hard": "You must choose exactly one option."
   }
     ```
-**Note:** If you want to add a new suffix, just put it in this dictionary.
+>**Note:** If you want to add a new suffix, just put it in this dictionary.
 
 - **with_gold_answer**: Indicates if a gold answer is provided in the options.
 
